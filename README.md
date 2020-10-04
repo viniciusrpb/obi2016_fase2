@@ -26,10 +26,10 @@ Clique [aqui](https://www.youtube.com/watch?v=O4Zp-vUBOf8).
 
 - Pô, que mão [[C++](https://github.com/viniciusrpb/obi2016fase2/blob/main/pokemon.cpp)] [[Python3](https://github.com/viniciusrpb/obi2016fase2/blob/main/pokepiton.py)]
 
-- Times [C++](https://olimpiada.ic.unicamp.br/pratique/pu/2016/f2/times/)
+- Times [[C++](https://olimpiada.ic.unicamp.br/pratique/pu/2016/f2/times/)]
 
-- Jardim de Infância [C++](https://github.com/viniciusrpb/obi2016fase2/blob/main/jardim_infancia.cpp)
+- Jardim de Infância [[C++](https://github.com/viniciusrpb/obi2016fase2/blob/main/jardim_infancia.cpp)]
 
-- Ciclovias [C++](https://github.com/viniciusrpb/obi2016fase2/blob/main/ciclovias.cpp)
+- Ciclovias [[C++](https://github.com/viniciusrpb/obi2016fase2/blob/main/ciclovias.cpp)]
 
-- Arco e Flecha [C++](https://olimpiada.ic.unicamp.br/pratique/pu/2016/f2/arco-online/)
+- Arco e Flecha [[C++](https://olimpiada.ic.unicamp.br/pratique/pu/2016/f2/arco-online/)]
