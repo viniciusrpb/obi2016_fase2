@@ -1,4 +1,4 @@
-# Upsolving Olimpiada Brasileira de Informática 2016 - Fase 2 (OBI 2016)
+# Upsolving Olimpíada Brasileira de Informática 2016 - Fase 2 (OBI 2016)
 
 ## Caderno de Problemas
 
