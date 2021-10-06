@@ -20,7 +20,7 @@ Link: [YouTube do CIC/UnB](https://www.youtube.com/watch?v=O4Zp-vUBOf8).
 
 ### Slides
 
-Clique [aqui](https://www.youtube.com/watch?v=O4Zp-vUBOf8).
+Clique [aqui](main.pdf).
 
 ### Soluções
 
