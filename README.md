@@ -32,4 +32,4 @@ Clique [aqui](https://www.youtube.com/watch?v=O4Zp-vUBOf8).
 
 - Ciclovias [[C++](https://github.com/viniciusrpb/obi2016fase2/blob/main/ciclovias.cpp)]
 
-- Arco e Flecha [[C++](https://olimpiada.ic.unicamp.br/pratique/pu/2016/f2/arco-online/)]
+- Arco e Flecha [[C++](https://github.com/viniciusrpb/obi2016fase2/blob/main/arco_flecha.cpp)]
