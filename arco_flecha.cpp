@@ -1,15 +1,3 @@
-/* Universidade de Brasília
- * Departamento de Ciência da Computação
- * CIC0169 - Programação Competitiva 
- * Prof. Dr. Vinicius R. P. Borges
- * 
- * Tópico: Divisão e conquista
- * Esse código-fonte está associado à implementação do algoritmo de ordenação Merge Sort, com contagem de inversoes.
- * 
- * Compilar no terminal: g++ merge_sort_enhanced.cpp -std=c++11 -o mgsort
- * Executar: ./mgsort
- */
-
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -82,7 +70,7 @@ int main()
         v[i] = d;
     }
         
-    ll ans = mergeSort(v,0,N-1);//(N*(N-1))/2 - mergeSort(v,temp,0,N-1);
+    ll ans = mergeSort(v,0,N-1);
         
     printf("%lld\n",ans);
     
